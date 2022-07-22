@@ -1,0 +1,20 @@
+Git é um repositório para seus códigos.
+Github é o seu repositório na nuvem.
+
+Comandos básicos para Git/GitHub:
+
+git init: inicia git
+git status: para verificar o que está acontecendo no repositório
+git add nome-arquivo: adicionar um arquivo
+gi add . : adicionar todos os arquivos de uma vez
+git commit -m "comentário": commit com mensagem para rastrear
+git branch -M main: enviar para a branch escolhida (no caso, main)
+git remote add origin link-repositorio: ligar repositório local ao remoto
+git push -u origin main (ou branch): enviar alteração pela primeira vez
+git push: enviar próximas vezes
+gli clone link-repositorio: clonar projeto de um repositório (com permissão)
+git checkout -b nome-branch: criar branch
+git merge nome-branch: unir branches
+git pull: modificações que foram feitas no repositório remoto
+git log: chave do commit 
+git revert chve-commit: desfazendo commits
