@@ -1,4 +1,4 @@
-<h2 align="center"> Desafio "Primeiro Repositório" - DIO <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> </h2>
+<h2 align="center"> Desafio "primeiro repositório" - DIO <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> </h2>
 
 <div align="justify">
 
